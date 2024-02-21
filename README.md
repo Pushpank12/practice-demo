@@ -1,2 +1,2 @@
 # practice-demo
-in this repository doing practice in github
+in this repository doing practice in github.
